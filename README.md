@@ -5,7 +5,7 @@ Creating a "Newspaper Flip page-turn" effect within a reusable service, allowing
 ## Demo
 
 <p align="center">
-    <img src="assets/gif/demo.gif" alt="Page Flip Animation Demo" width="300"/>
+    <img src="assets/gif/demo.gif" alt="Page Flip Animation Demo" width="500"/>
     <br>
     <em>Interactive demonstration of the newspaper page-flip effect running on an iPad Pro 11" emulator, driven by smooth drag gestures and custom 3D perspective transformations.</em>
 </p>
